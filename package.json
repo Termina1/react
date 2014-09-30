@@ -33,7 +33,7 @@
   "dependencies": {
     "commoner": "^0.10.0",
     "esprima-fb": "^6001.1.0-dev-harmony-fb",
-    "jstransform": "^6.2.0"
+    "jstransform": "git://github.com/Termina1/jstransform#patch-1"
   },
   "devDependencies": {
     "benchmark": "~1.0.0",
